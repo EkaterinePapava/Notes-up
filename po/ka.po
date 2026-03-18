@@ -1,0 +1,590 @@
+# Georgian translation for com.github.philip_scott.notes-up.
+# Copyright (C) 2026 com.github.philip_scott.notes-up's authors.
+# This file is distributed under the same license as the com.github.philip_scott.notes-up package.
+# Ekaterine Papava <papava.e@gtu.ge>, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: com.github.philip_scott.notes-up\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-30 15:38+0100\n"
+"PO-Revision-Date: 2026-03-18 13:33+0100\n"
+"Last-Translator: Ekaterine Papava <papava.e@gtu.ge>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.9\n"
+
+#: src/Plugins/Break.vala:28
+msgid "Page break when exporting to PDF: <break>"
+msgstr "გვერდის გადატანა PDF-ში გატანისას: <break>"
+
+#: src/Plugins/Break.vala:32
+msgid "Page break"
+msgstr "გვერდის გაყოფა"
+
+#: src/Plugins/Break.vala:47
+msgid "Page break on export: <break>"
+msgstr "გვერდის გადატანა გატანისას: <break>"
+
+#: src/Plugins/Color.vala:35
+msgid ""
+"Set font color for the line with <color [#color]> or for some text with "
+"<color [color] [text]>"
+msgstr ""
+"დააყენეთ ფონტის ფერი ხაზისთვის ჭდით <color [#color]> ან ტექსტის ნაწილისთვის "
+"ჭდით <color [ფერი] [ტექსტი]>"
+
+#: src/Plugins/Color.vala:39 src/Plugins/Color.vala:68
+msgid "Font color"
+msgstr "ფონტის ფერი"
+
+#: src/Plugins/Highlight.vala:28 src/Widgets/HelpBox.vala:62
+msgid "Enable Syntax Highlighting"
+msgstr "სინტაქსის გამოკვეთის ჩართვა"
+
+#: src/Plugins/Highlight.vala:32
+msgid "Syntax Highlighing"
+msgstr "სინტაქსის გამოკვეთა"
+
+#: src/Plugins/Image.vala:28
+msgid "Load an embeded image"
+msgstr "ჩაშენებული გამოსახულების ჩატვირთვა"
+
+#: src/Plugins/Image.vala:32
+msgid "Image"
+msgstr "გამოსახულება"
+
+#: src/Plugins/PageLink.vala:31
+msgid "Open a page in Notes-Up"
+msgstr "გვერდის გახსნა Notes-Up-ში"
+
+#: src/Plugins/PageLink.vala:35
+msgid "Link to Page"
+msgstr "ბმული გვერდამდე"
+
+#: src/Plugins/Youtube.vala:30
+msgid "Embed youtube videos: <youtube [video]>"
+msgstr "youtube-ის ვიდეოების ჩაშენება: <youtube [ვიდეო]>"
+
+#: src/Plugins/Youtube.vala:34
+msgid "Youtube"
+msgstr "Youtube"
+
+#: src/Plugins/Youtube.vala:42
+msgid "Insert Youtube video"
+msgstr "Youtube ვიდეოს ჩასმა"
+
+#: src/Plugins/Youtube.vala:78 src/Widgets/HelpBox.vala:60
+msgid "Youtube Video"
+msgstr "Youtube ვიდეო"
+
+#: src/Services/FileManager.vala:51
+msgid "Print to File"
+msgstr "ფაილში ბეჭდვა"
+
+#: src/Services/FileManager.vala:126
+msgid "Save as PDF"
+msgstr "PDF-ის სახით შენახვა"
+
+#: src/Services/FileManager.vala:128
+msgid "PDF File"
+msgstr "PDF ფაილი"
+
+#: src/Services/FileManager.vala:136
+msgid "Save as Markdown"
+msgstr "შენახვა Markdown-ის ფაილად"
+
+#: src/Services/FileManager.vala:138
+msgid "Markdown File"
+msgstr "Markdown-ის ფაილი"
+
+#: src/Services/FileManager.vala:146
+msgid "Open Image"
+msgstr "გამოსახულების გახსნა"
+
+#: src/Services/FileManager.vala:149
+msgid "Images"
+msgstr "გამოსახულებები"
+
+#: src/Services/FileManager.vala:159
+msgid "Save"
+msgstr "შენახვა"
+
+#: src/Services/FileManager.vala:161
+msgid "Open"
+msgstr "გახსნა"
+
+#: src/Services/FileManager.vala:165
+msgid "All Files"
+msgstr "ყველა ფაილი"
+
+#: src/Services/FileManager.vala:174
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:72
+#: src/Widgets/Dialogs/NotebookListDialog.vala:34
+#: src/Widgets/Dialogs/NotebookListDialog.vala:76
+msgid "Cancel"
+msgstr "გაუქმება"
+
+#: src/Services/Page.vala:172 src/Services/Page.vala:256
+#: src/Services/Page.vala:267 src/Widgets/PagesList.vala:101
+msgid "New Page"
+msgstr "ახალი გვერდი"
+
+#: src/Services/StyleLoader.vala:23
+msgid "Default"
+msgstr "ნაგულისხმევი"
+
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:63
+msgid "Name:"
+msgstr "სახელი:"
+
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:64
+msgid "Color:"
+msgstr "ფერი:"
+
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:82 src/Widgets/Headerbar.vala:204
+msgid "Edit"
+msgstr "ჩასწორება"
+
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:85
+msgid "Create"
+msgstr "შექმნა"
+
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:103
+msgid "Properties"
+msgstr "თვისებები"
+
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:104
+msgid "Style"
+msgstr "სტილი"
+
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:122
+msgid "Style modifications"
+msgstr "სტილის ცვლილებები"
+
+#: src/Widgets/Dialogs/NewNotebookDialog.vala:135
+#: src/Widgets/Dialogs/PreferencesDialog.vala:150
+msgid "Stylesheet:"
+msgstr "სტილების ცხრილი:"
+
+#: src/Widgets/Dialogs/NotebookListDialog.vala:25
+msgid "Move Notebook"
+msgstr "ბლოკნოტის გადატანა"
+
+#: src/Widgets/Dialogs/NotebookListDialog.vala:36
+#: src/Widgets/Dialogs/NotebookListDialog.vala:78
+msgid "Move"
+msgstr "გადატანა"
+
+#: src/Widgets/Dialogs/NotebookListDialog.vala:66
+msgid "Move Page"
+msgstr "გვერდის გადატანა"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:41 src/Widgets/Headerbar.vala:355
+msgid "Preferences"
+msgstr "მორგება"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:50
+msgid "Editor"
+msgstr "რედაქტორი"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:51
+msgid "Viewer"
+msgstr "მაყურებელი"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:64
+msgid "_Close"
+msgstr "და_ხურვა"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:72
+msgid "Font:"
+msgstr "ფონტი:"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:82
+msgid "Theme:"
+msgstr "თემა:"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:93
+msgid "Automatic indentation:"
+msgstr "ავტომატური სწორება:"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:101
+msgid "Show line Numbers:"
+msgstr "ხაზის ნომრების ჩვენება:"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:109
+msgid "Spellcheck:"
+msgstr "მართლწერა:"
+
+#: src/Widgets/Dialogs/PreferencesDialog.vala:137
+msgid "Global style modifications"
+msgstr "გლობალური სტილის ცვლილებები"
+
+#: src/Widgets/Sidebar/BookmarkItem.vala:54 src/Widgets/Sidebar/TagItem.vala:54
+msgid "Remove"
+msgstr "წაშლა"
+
+#: src/Widgets/Sidebar/NotebookItem.vala:53
+msgid "Edit Section"
+msgstr "სექციის ჩასწორება"
+
+#: src/Widgets/Sidebar/NotebookItem.vala:54 src/Widgets/Headerbar.vala:354
+msgid "New Section"
+msgstr "ახალი განყოფილება"
+
+#: src/Widgets/Sidebar/NotebookItem.vala:55
+msgid "Delete Section"
+msgstr "განყოფილების წაშლა"
+
+#: src/Widgets/Sidebar/NotebookItem.vala:56
+msgid "Move Section"
+msgstr "სექციის გადატანა"
+
+#: src/Widgets/Sidebar/NotebookList.vala:32
+msgid "New Notebook"
+msgstr "ახალი წიგნაკი"
+
+#: src/Widgets/Sidebar/Sidebar.vala:27
+msgid "Bookmarks"
+msgstr "სანიშნეები"
+
+#: src/Widgets/Sidebar/Sidebar.vala:28
+msgid "Trash"
+msgstr "ნაგვის ყუთი"
+
+#: src/Widgets/Sidebar/Sidebar.vala:29
+msgid "Tags"
+msgstr "ჭდეები"
+
+#: src/Widgets/Sidebar/Sidebar.vala:33
+msgid "Sections"
+msgstr "სექციები"
+
+#: src/Widgets/Sidebar/Sidebar.vala:54
+msgid "All Notes"
+msgstr "ყველა შენიშვნა"
+
+#: src/Widgets/Sidebar/Sidebar.vala:134
+msgid "Not in a Notebook"
+msgstr "ბლოკნოტში არაა"
+
+#: src/Widgets/Sidebar/Sidebar.vala:260
+msgid "My Notes"
+msgstr "ჩემი შენიშვნები"
+
+#: src/Widgets/Sidebar/TrashItem.vala:28
+msgid "Restore"
+msgstr "აღდგენა"
+
+#: src/Widgets/BookmarkButton.vala:34
+msgid "Bookmark page"
+msgstr "გვერდის ჩანიშვნა"
+
+#: src/Widgets/Editor.vala:188
+msgid "Add bold to text"
+msgstr "ტესტისთვის სქელი ფონტის დამატება"
+
+#: src/Widgets/Editor.vala:195
+msgid "Add italic to text"
+msgstr "ტესტისთვის კურსივი ფონტის დამატება"
+
+#: src/Widgets/Editor.vala:202
+msgid "Strikethrough text"
+msgstr "ხაზგადასმული ტექსტი"
+
+#: src/Widgets/Editor.vala:206
+msgid "Insert a quote"
+msgstr "ციტატის ჩასმა"
+
+#: src/Widgets/Editor.vala:207
+msgid "Insert code"
+msgstr "Ჩაწერეთ კოდი"
+
+#: src/Widgets/Editor.vala:208
+msgid "Insert a link"
+msgstr "ბმულის ჩასმა"
+
+#: src/Widgets/Editor.vala:210
+msgid "Add a bulleted list"
+msgstr "მარკირებული სია"
+
+#: src/Widgets/Editor.vala:211
+msgid "Add a Numbered list"
+msgstr "დანომრილი სიის დამატება"
+
+#: src/Widgets/Editor.vala:213
+msgid "Insert an image"
+msgstr "სურათის ჩასმა"
+
+#: src/Widgets/Editor.vala:252
+msgid "Formatting"
+msgstr "დაფორმატება"
+
+#: src/Widgets/Headerbar.vala:59
+msgid "Search your current notebook"
+msgstr "ძებნა თქვენს მიმდინარე ბლოკნოტში"
+
+#: src/Widgets/Headerbar.vala:84
+msgid "Add Tag"
+msgstr "ჭდის დამატება"
+
+#: src/Widgets/Headerbar.vala:113
+msgid "Edit Page Title"
+msgstr "გვერდის სათაურის ჩასწორება"
+
+#: src/Widgets/Headerbar.vala:202
+msgid "View"
+msgstr "ხედი"
+
+#: src/Widgets/Headerbar.vala:208
+msgid "Change mode"
+msgstr "რეჟიმის შეცვლა"
+
+#: src/Widgets/Headerbar.vala:233
+msgid "Show All"
+msgstr "ყველას ჩვენება"
+
+#: src/Widgets/Headerbar.vala:234
+msgid "Show Sections and Pages"
+msgstr "განყოფილებებისა და გვერდების ჩვენება"
+
+#: src/Widgets/Headerbar.vala:235
+msgid "Show Only Pages"
+msgstr "მხოლოდ, გვერდების ჩვენება"
+
+#: src/Widgets/Headerbar.vala:236
+msgid "Hide All"
+msgstr "ყველას დამალვა"
+
+#: src/Widgets/Headerbar.vala:263
+msgid "Panel Options"
+msgstr "პანელის მორგება"
+
+#: src/Widgets/Headerbar.vala:327
+msgid "High Contrast"
+msgstr "მაღალი კონტრასტი"
+
+#: src/Widgets/Headerbar.vala:335
+msgid "Solarized Light"
+msgstr "Solarized ღია"
+
+#: src/Widgets/Headerbar.vala:343
+msgid "Solarized Dark"
+msgstr "Solarized მუქი"
+
+#: src/Widgets/Headerbar.vala:356
+msgid "Export as PDF"
+msgstr "PDF-ად გატანა"
+
+#: src/Widgets/Headerbar.vala:357
+msgid "Export as Markdown"
+msgstr "გატანა Markdown-ში"
+
+#: src/Widgets/Headerbar.vala:380
+msgid "Menu"
+msgstr "მენიუ"
+
+#: src/Widgets/HelpBox.vala:41
+msgid "Large Header"
+msgstr "დიდი თავსართი"
+
+#: src/Widgets/HelpBox.vala:42
+msgid "Medium Header"
+msgstr "საშუალო თავსართი"
+
+#: src/Widgets/HelpBox.vala:43
+msgid "Small Header"
+msgstr "პატარა თავსართი"
+
+#: src/Widgets/HelpBox.vala:45
+msgid "<i>Italic</i>"
+msgstr "<i>კურსივი</i>"
+
+#: src/Widgets/HelpBox.vala:45
+msgid "_italic_"
+msgstr "_კურსივი_"
+
+#: src/Widgets/HelpBox.vala:46
+msgid "<b>Bold</b>"
+msgstr "<b>სქელი</b>"
+
+#: src/Widgets/HelpBox.vala:46
+msgid "**bold**"
+msgstr "**სქელი**"
+
+#: src/Widgets/HelpBox.vala:47
+msgid "<s>Strike</s>"
+msgstr "<s>ხაზგადასმული</s>"
+
+#: src/Widgets/HelpBox.vala:47
+msgid "~~strike~~"
+msgstr "~~ხაზგადასმული~~"
+
+#: src/Widgets/HelpBox.vala:48
+msgid "|  <i>quote</i>"
+msgstr "|  <i>ციტატა</i>"
+
+#: src/Widgets/HelpBox.vala:50
+msgid "1. Numbered list"
+msgstr "1. დანომრილი სია"
+
+#: src/Widgets/HelpBox.vala:51
+msgid "⚫ Bulleted list"
+msgstr "⚫ მარკირებული სია"
+
+#: src/Widgets/HelpBox.vala:53
+msgid "Divider"
+msgstr "გამყოფი"
+
+#: src/Widgets/HelpBox.vala:54
+msgid "Code"
+msgstr "კოდი"
+
+#: src/Widgets/HelpBox.vala:55
+msgid "Code Block"
+msgstr "კოდის ბლოკი"
+
+#: src/Widgets/HelpBox.vala:56
+msgid "Link"
+msgstr "ბმული"
+
+#: src/Widgets/HelpBox.vala:56
+msgid "[Text](www...) "
+msgstr "[ტექსტი](www...) "
+
+#: src/Widgets/HelpBox.vala:57
+msgid "Citation Anchor"
+msgstr "ციტატის ღუზა"
+
+#: src/Widgets/HelpBox.vala:58
+msgid "Citation Text"
+msgstr "ციტატის ტექსტი"
+
+#: src/Widgets/HelpBox.vala:58
+msgid "[^1]: text"
+msgstr "[^1]: ტექსტი"
+
+#: src/Widgets/HelpBox.vala:60
+msgid "<youtube [link]>"
+msgstr "<youtube [ბმული]>"
+
+#: src/Widgets/HelpBox.vala:61
+msgid "Page Break (when exporting)"
+msgstr "გვერდის გადატანა (გატანისას)"
+
+#: src/Widgets/HelpBox.vala:63
+msgid "Set Color"
+msgstr "ფერის დაყენება"
+
+#: src/Widgets/PageInfoEditor.vala:71
+#, c-format
+msgid "Created: %s"
+msgstr "შექმნილია: %s"
+
+#: src/Widgets/PageInfoEditor.vala:78
+#, c-format
+msgid "Updated: %s"
+msgstr "განახლებულია: %s"
+
+#: src/Widgets/PageInfoEditor.vala:100
+msgid "Not in Notebook"
+msgstr "ბლოკნოტში არაა"
+
+#: src/Widgets/PageInfoEditor.vala:127
+msgid "Move page…"
+msgstr "გვერდის გადატანა…"
+
+#: src/Widgets/PageInfoEditor.vala:163
+msgid "Copy link to page to clipboard"
+msgstr "გვერდზე ბმულის კოპირება"
+
+#: src/Widgets/PageInfoEditor.vala:195
+msgid "Toggle page information"
+msgstr "გვერდის ინფორმაციის გადართვა"
+
+#: src/Widgets/PageInfoEditor.vala:223
+msgid "Link to: "
+msgstr "ბმული სადამდე: "
+
+#: src/Widgets/PageInfoEditor.vala:265
+msgid "Click to add tag…"
+msgstr "დააწკაპუნეთ ჭდის დასამატებლად…"
+
+#: src/Widgets/PageInfoEditor.vala:329
+msgid "Remove tag"
+msgstr "ჭდის წაშლა"
+
+#: src/Widgets/PagesList.vala:106
+msgid "Delete Page"
+msgstr "გვერდის წაშლა"
+
+#: src/Widgets/PagesList.vala:227 src/Widgets/PagesList.vala:353
+#, c-format
+msgid "%i Page"
+msgid_plural "%i Pages"
+msgstr[0] "%i გვერდი"
+msgstr[1] "%i გვერდი"
+
+#: src/Application.vala:39
+msgid "<Ctrl>M"
+msgstr "<Ctrl>M"
+
+#: src/Application.vala:40
+msgid "<Ctrl>S"
+msgstr "<Ctrl>S"
+
+#: src/Application.vala:41
+msgid "<Ctrl>Q"
+msgstr "<Ctrl>Q"
+
+#: src/Application.vala:42
+msgid "<Ctrl><Shift>N"
+msgstr "<Ctrl><Shift>N"
+
+#: src/Application.vala:43
+msgid "<Ctrl>F"
+msgstr "<Ctrl>F"
+
+#: src/Application.vala:44
+msgid "<Ctrl>K"
+msgstr "<Ctrl>K"
+
+#: src/Application.vala:45
+msgid "<Ctrl>B"
+msgstr "<Ctrl>B"
+
+#: src/Application.vala:46
+msgid "<Ctrl>I"
+msgstr "<Ctrl>I"
+
+#: src/Application.vala:47
+msgid "<Ctrl>T"
+msgstr "<Ctrl>T"
+
+#: src/Application.vala:48
+msgid "<Ctrl><Shift>I"
+msgstr "<Ctrl><Shift>I"
+
+#: src/Application.vala:49
+msgid "<Ctrl>P"
+msgstr "<Ctrl>P"
+
+#: src/Application.vala:50
+msgid "<Ctrl><Shift>P"
+msgstr "<Ctrl><Shift>P"
+
+#: src/Application.vala:66
+msgid "Notes-Up"
+msgstr "Notes-Up"
+
+#: src/Application.vala:67
+msgid "Your Markdown Notebook."
+msgstr "თქვენი Markdown-ის ბლოკნოტი."
+
+#: src/Application.vala:68
+msgid "About Notes"
+msgstr "შენიშვნების შესახებ"
